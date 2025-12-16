@@ -1,8 +1,7 @@
 # ML_charged_defects
 
-The details of the data and programs will be explained soon.
+This repository stores the data and programs that are used in the following paper:
 
-The related paper has been published in 
 
 [Shin Kiyohara, Chisa Shibui, Soungmin Bae, and Yu Kumagai
 Phys. Rev. Lett. 135, 246101, (2025).](https://doi.org/10.1103/h66h-y5k6)
@@ -26,3 +25,4 @@ loadfn( Path(oxy_vac_data)/ "defect_structure_info.json")
 ```
 
 We can construct MaterialsDataset in materials_dataset.py from these data.
+
