@@ -26,3 +26,4 @@ loadfn( Path(oxy_vac_data)/ "defect_structure_info.json")
 
 We can construct MaterialsDataset in materials_dataset.py from these data.
 
+If you encounter any issues, please contact the authors through the issue tracker or email yukumagai@tohoku.ac.jp.
